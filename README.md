@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">🏃🏻‍  Traxivity  🏃🏻‍</h3>
+<h1 align="center">🏃🏻‍  Traxivity  🏃🏻‍</h1>
 
 <p align="center">
     Traxivity is a module which features step counting and its analytics that you can use in your react-native app in order to help your users have their physical activity in check by maintaining and keep track of a daily step goal.
@@ -18,7 +18,7 @@ We are constantly trying to make the module as independent as possible but at th
 1. Google Fit (<a href="https://github.com/StasDoskalenko/react-native-google-fit">react-native-google-fit</a>)
 2. Google Signin (<a href="https://github.com/react-native-community/google-signin">react-native-google-signin</a>)
 
-## How to Use Traxivity
+## How to Use
 
 ### Installing
 
@@ -64,9 +64,13 @@ import { Monthly } from "@rgu-computing/traxivity";
 More options and customizations are coming soon! 😉
 
 ## Screenshots
-<!--
-<img src="#">
--->
+
+<img src="https://i.imgur.com/JpkqVYc.png" height="300">
+<img src="https://i.imgur.com/XbjQh5o.png" height="300">
+<img src="https://i.imgur.com/BsNeQxp.png" height="300">
+
+
+
 <!--## Architecture 
 
 <img src="#">
