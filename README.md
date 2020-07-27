@@ -8,8 +8,6 @@
 
 <p align="center">
     Traxivity is reusable module that you can use in your react-native app in order to help your users to have their physical activity in check by maintaining and keep track of a daily step goal.
-    <br />
-    [![MIT License][license-shield]][license-url]
 </p>
 
 ## Prerequisites
@@ -40,18 +38,23 @@ $ yarn add @rgu-computing/traxivity
 
 ```js
 import { Today } from "@rgu-computing/traxivity";
-import { Weekly } from "@rgu-computing/traxivity";
-import { Monthly } from "@rgu-computing/traxivity";
-
+//..
 <Today/>
+
+import { Weekly } from "@rgu-computing/traxivity";
+// ..
 <Weekly/>
+
+import { Monthly } from "@rgu-computing/traxivity";
+//..
 <Monthly/>
 ```
 More options and customizations are coming soon! 😉
+
 ## Screenshots
-
+<!--
 <img src="#">
-
+-->
 <!--## Architecture 
 
 <img src="#">
