@@ -65,9 +65,14 @@ More options and customizations are coming soon! 😉
 
 ## Screenshots
 
-<img src="https://i.imgur.com/JpkqVYc.png" height="300">
-<img src="https://i.imgur.com/XbjQh5o.png" height="300">
-<img src="https://i.imgur.com/BsNeQxp.png" height="300">
+<p align="left">
+  <a href="#">
+    <img src="https://i.imgur.com/JpkqVYc.png" height="300">
+    <img src="https://i.imgur.com/XbjQh5o.png" height="300">
+    <img src="https://i.imgur.com/BsNeQxp.png" height="300">
+  </a>
+</p>
+
 
 
 
