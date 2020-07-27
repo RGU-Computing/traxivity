@@ -1,0 +1,33 @@
+{
+  "name": "traxivity",
+  "version": "1.0.0",
+  "description": "Step counting and analytics module for React Native by RGU.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGU-Computing/traxivity.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "RGU-Computing <j.gamage@rgu.ac.uk> (https://github.com/RGU-Computing)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RGU-Computing/traxivity/issues"
+  },
+  "homepage": "https://github.com/RGU-Computing/traxivity#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.61.0"
+  },
+  "dependencies": {
+    "react-native": "^0.63.2",
+    "react-native-firebase": "^5.6.0",
+    "react-native-gesture-handler": "^1.7.0",
+    "react-native-google-fit": "^0.13.0",
+    "react-native-google-signin": "^2.1.1",
+    "react-native-progress": "^4.1.2"
+  }
+}
