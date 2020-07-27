@@ -8,27 +8,39 @@
 
 <p align="center">
     Traxivity is reusable module that you can use in your react-native app in order to help your users to have their physical activity in check by maintaining and keep track of a daily step goal.
+    <br />
 </p>
 
 ## Prerequisites
 
 We are constantly trying to make the module as independent as possible but at this stage, we only support the projects with following dependencies.
-````
-1. Google Fit (react-native-google-fit)
-2. Google Signin (react-native-google-signin)
-````
+
+1. Google Fit (<a href="https://github.com/StasDoskalenko/react-native-google-fit" target="_blank">react-native-google-fit</a>)
+2. Google Signin (<a href="https://github.com/react-native-community/google-signin" target="_blank">react-native-google-signin</a>)
 
 ## How to Use Traxivity
 
 ### Installing
 
-via NPM 
+via git clone (Temporary)
+
+```
+$ git clone git@github.com:RGU-Computing/traxivity.git
+
+or 
+
+$ git clone https://github.com/RGU-Computing/traxivity.git
+```
+
+Create a directory `@rgu-computing/traxivity` inside your `node_modules` folder and paste the root files and folders into it.
+
+via NPM (Coming Soon)
 
 ```
 $ npm install @rgu-computing/traxivity
 ```
 
-via yarn 
+via yarn (Coming Soon)
 
 ```
 $ yarn add @rgu-computing/traxivity
