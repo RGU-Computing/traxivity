@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://www.rgu.ac.uk/templates/g5_rgu/images/logo.png" alt="Traxivity" height="80">
+<!--     <img src="https://www.rgu.ac.uk/templates/g5_rgu/images/logo.png" alt="Traxivity" height="80"> -->
   </a>
 </p>
 
